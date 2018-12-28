@@ -1,0 +1,55 @@
+{
+  "id" : "55a6666c",
+  "name" : "React-native export",
+  "description" : "Sample plugin for Adobe XD, providing starter project scaffolding.",
+  "version" : "1.0.0",
+  "author": "Anderson Costa",
+
+  "icons" : [{
+    "width" : 96, "height" : 96, "path" : "images/icon.png" 
+  }],
+
+  "host" : {
+    "app" : "XD",
+    "minVersion" : "13.0.0"
+  },
+
+  "uiEntryPoints": [
+        {
+            "type": "menu",
+            "label": "React-native export",
+            "menuItems": [
+                {
+                    "type": "menu",
+                    "label": "Informações do documento XD",
+                    "commandId": "infoDocumentXD"
+                },
+                {
+                    "type": "menu",
+                    "label": "Criar elementos",
+                    "commandId": "createElements"
+                },
+                {
+                    "type": "menu",
+                    "label": "Ler arquivos",
+                    "commandId": "fsReadHandler"
+                },
+                {
+                    "type": "menu",
+                    "label": "Importar arquivo",
+                    "commandId": "fsImportHandler"
+                },
+                {
+                    "type": "menu",
+                    "label": "Salvar arquivo",
+                    "commandId": "fsSaveHandler"
+                },
+                {
+                    "type": "menu",
+                    "label": "About",
+                    "commandId": "aboutPlugin"
+                }
+            ]
+        }
+    ]
+}
