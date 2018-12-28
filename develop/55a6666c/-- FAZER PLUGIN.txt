@@ -1,0 +1,73 @@
+
+
+
+FAZER PLUGIN DE GERADOR DE TEXTO, LISTA e imagens
+- - - - - - - - - - - - - - - - - 
+
+ A random data generator. Generates data according to a provided template. Data can be requested from server using REST API.
+
+    - https://github.com/paucc/Lists/tree/master/Lists
+    - https://www.lists.design
+    - https://mockaroo.com
+    - https://next.json-generator.com/    (https://next.json-generator.com/api/json/get/VkzwHHRxI)
+    - https://unsplash.com/. (pegar as fotos)
+    	Dá para manipular as fotos, fazer um esquema para buscar a foto, listar e ao selecionar falar o qualidade. A url abaixo dá para 
+    	    - https://unsplash.com/napi/search?query=car&xp=&per_page=20
+    		- https://images.unsplash.com/photo-1514846326710-096e4a8035e0?&w=1000&q=100
+
+
+
+ referências de plugns:
+
+ 	- https://github.com/timuric/Content-generator-sketch-plugin
+ 	- https://websiddu.github.io/sketch-material/
+ 	- https://help.usertesting.com/hc/en-us/articles/360014666372-UserTesting-Adobe-XD-Plugin
+ 	- Tem um plugin parecido no XD (repeat grid content generator)
+ 	- Tem um plugin parecido no XD (ContentGenerator)
+ 	- Tem um plugin parecido no XD ( Custom Export ) *** pode usar imagem no layout do plugin
+
+
+ Nome do plugin
+
+ 	- Content generator
+
+    
+
+
+
+
+FAZER PLUGIN só com fotos, onde pesquisa o tipo de foto e aplicar
+- - - - - - - - - - - - - - - - - 
+
+ Dá para manipular as fotos, fazer um esquema para buscar a foto, listar e ao selecionar falar o qualidade. A url abaixo dá para 
+ 	- https://unsplash.com/napi/search?query=car&xp=&per_page=20
+ 	- https://images.unsplash.com/photo-1514846326710-096e4a8035e0?&w=1000&q=100
+
+
+
+
+
+
+
+
+FAZER PLUGIN para exportar para o react-native
+- - - - - - - - - - - - - - - - - 
+
+	Ver como referência:
+		- Tem um plugin parecido no XD ( Export as React Component )
+		- Tem um plugin parecido no XD ( Web Export )
+		- Tem um plugin parecido no XD ( Custom Export )
+
+
+
+
+
+
+
+
+
+
+FAZER PLUGIN de pesquisa e aplicação de ícones
+- - - - - - - - - - - - - - - - - 
+
+usar os ícone do: https://oblador.github.io/react-native-vector-icons/
